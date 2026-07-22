@@ -2,9 +2,8 @@
 
 > A full-stack content management system for discovering, reviewing, publishing, and moderating educational videos at scale.
 
-<p align="center">
-  <img src="screenshots/logo.png" alt="Platform Logo" width="120"/>
-</p>
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/63edb25a-85f6-4ed1-abde-9af2706fbbf6" />
+
 
 <p align="center">
   <a href="#about">About</a> ·
@@ -73,57 +72,47 @@ The application follows a clear content lifecycle from discovery to publication:
 
 ### Admin Dashboard
 
-<p align="center">
-  <img src="screenshots/dashboard.png" alt="Admin dashboard showing analytics cards, activity chart, and navigation sidebar" width="90%"/>
-</p>
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/2c487932-20fc-4885-a7b8-b81392fb3d6d" />
+
 
 ### Video Search
 
-<p align="center">
-  <img src="screenshots/search.png" alt="YouTube video search results with thumbnails, titles, and import buttons" width="90%"/>
-</p>
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/f5987786-4557-4c07-836b-dfdaec9efe39" />
+
 
 ### Video Library
 
-<p align="center">
-  <img src="screenshots/library.png" alt="Video library grid showing published, pending, and trashed videos" width="90%"/>
-</p>
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/11ce2f57-6897-40dc-9160-746f68c7d6cc" />
+
 
 ### Review Workflow
 
-<p align="center">
-  <img src="screenshots/review.png" alt="Video review page with educational quality checklist and approval controls" width="90%"/>
-</p>
+<img width="1365" height="765" alt="image" src="https://github.com/user-attachments/assets/7fcea41e-ecce-4bf0-afcd-edebf5039204" />
+
 
 ### Category Management
 
-<p align="center">
-  <img src="screenshots/categories.png" alt="Category management screen with parent and subcategory cards" width="90%"/>
-</p>
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/1eacadf7-f3b2-4785-8329-d27ab2056636" />
+
 
 ### User & Role Management
 
-<p align="center">
-  <img src="screenshots/users.png" alt="User management table with role assignment and status controls" width="90%"/>
-</p>
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/ef017fb7-3234-451e-892a-37e2387191c0" />
+
 
 ### Recommendation Queue
 
-<p align="center">
-  <img src="screenshots/recommendations.png" alt="Recommendation moderation queue with thumbnails and approve or reject actions" width="90%"/>
-</p>
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/5169fdd0-dbb6-48e6-9254-9a9098a71902" />
+
 
 ### Kids Zone
 
-<p align="center">
-  <img src="screenshots/kids.png" alt="Kids zone browsing page with filtered educational video grid" width="90%"/>
-</p>
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/b43594e0-eac1-4ec2-9b1c-039e9ba021f6" />
+
 
 ### Authentication
 
-<p align="center">
-  <img src="screenshots/login.png" alt="Login and signup page with split screen design and social auth options" width="90%"/>
-</p>
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/aaa41fb8-3aeb-42dc-b50f-cedf55adb9bc" />
 
 ---
 
@@ -189,20 +178,14 @@ Quick start:
 
 ---
 
-## Demo
-
-- Live application: [Add deployed URL here]
-- Video walkthrough: [Add YouTube or Loom link here]
-
----
 
 ## Author
 
 Built by **Shozab Haider** - Full Stack Developer
 
-- LinkedIn: [Add your LinkedIn URL here]
-- Portfolio: [Add your portfolio URL here]
-- Email: [Add your email here]
+- LinkedIn: https://www.linkedin.com/in/muhammad-shozab-se
+- Portfolio: https://muhammad-shozab.github.io/portfolio/
+- Email: m.shozab2005@gmail.com
 
 ---
 
