@@ -20,9 +20,6 @@
 
 ## Demo
 
-Live demo: [Add your deployed URL here after publishing]
-
-Video walkthrough: [Add your YouTube / Loom link here]
 
 ---
 
